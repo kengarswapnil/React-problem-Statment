@@ -1,0 +1,76 @@
+const products = [
+  {
+    id: 1,
+    name: "iPhone 14",
+    price: 70000,
+    brand: "Apple",
+    category: "Mobile",
+    image: "https://via.placeholder.com/150",
+  },
+  {
+    id: 2,
+    name: "Samsung Galaxy S23",
+    price: 65000,
+    brand: "Samsung",
+    category: "Mobile",
+    image: "https://via.placeholder.com/150",
+  },
+  {
+    id: 3,
+    name: "OnePlus 11",
+    price: 55000,
+    brand: "OnePlus",
+    category: "Mobile",
+    image: "https://via.placeholder.com/150",
+  },
+  {
+    id: 4,
+    name: "Dell Inspiron Laptop",
+    price: 60000,
+    brand: "Dell",
+    category: "Laptop",
+    image: "https://via.placeholder.com/150",
+  },
+  {
+    id: 5,
+    name: "HP Pavilion Laptop",
+    price: 58000,
+    brand: "HP",
+    category: "Laptop",
+    image: "https://via.placeholder.com/150",
+  },
+  {
+    id: 6,
+    name: "MacBook Air M1",
+    price: 90000,
+    brand: "Apple",
+    category: "Laptop",
+    image: "https://via.placeholder.com/150",
+  },
+  {
+    id: 7,
+    name: "Sony Headphones",
+    price: 5000,
+    brand: "Sony",
+    category: "Accessories",
+    image: "https://via.placeholder.com/150",
+  },
+  {
+    id: 8,
+    name: "Boat Smartwatch",
+    price: 3000,
+    brand: "Boat",
+    category: "Wearable",
+    image: "https://via.placeholder.com/150",
+  },
+  {
+    id: 9,
+    name: "Realme Buds Air",
+    price: 2500,
+    brand: "Realme",
+    category: "Accessories",
+    image: "https://via.placeholder.com/150",
+  }
+];
+
+export default products;
